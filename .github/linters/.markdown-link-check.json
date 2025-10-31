@@ -1,0 +1,10 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "ONS-Innovation/test-repo-trial-bt"
+    }
+  ],
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "30s"
+}
